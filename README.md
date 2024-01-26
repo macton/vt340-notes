@@ -17,6 +17,8 @@ Notes on setup and use of DEC VT340 terminal.
   * [vt340test](https://github.com/hackerb9/vt340test)
   * [vec2tek](https://github.com/phar/vec2tek)
   * [lsix](https://github.com/hackerb9/lsix)
+  * [terminal-snippets](https://gitlab.com/AutumnMeowMeow/terminal-snippets)
+  * [ncurses-examples](https://invisible-island.net/ncurses/ncurses-examples.html)
 
 # Emulation: xterm
 
